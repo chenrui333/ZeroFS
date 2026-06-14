@@ -1,0 +1,19 @@
+zerofs/.cargo/config.toml
+  s_c0f4c3c98066c9::t_757c393b0328eb 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "9fd138779f3e25886571d174148fc748f40e447d",
+  "prompts": {},
+  "sessions": {
+    "s_c0f4c3c98066c9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ec731-a2bf-7453-8ca2-1cb85fc84bbe",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
