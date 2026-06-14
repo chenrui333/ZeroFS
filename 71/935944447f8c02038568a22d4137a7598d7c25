@@ -1,0 +1,19 @@
+zerofs/.cargo/config.toml
+  s_c0f4c3c98066c9::t_e7a2142f7abbfb 16-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "71935944447f8c02038568a22d4137a7598d7c25",
+  "prompts": {},
+  "sessions": {
+    "s_c0f4c3c98066c9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ec731-a2bf-7453-8ca2-1cb85fc84bbe",
+        "model": "gpt-5.5"
+      },
+      "human_author": null
+    }
+  }
+}
